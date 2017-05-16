@@ -32,6 +32,10 @@ DRL is reinforcement learning using neural network to approximate functions. inc
 - Value functions: measures goodness of state and state-action pairs
 - Dynamic Models: predict next state and reward -----  is it means next action towards next state?
 
+# Difference between RL and supervised learning
+For reinforcement learning:
+- You don't have full access to the function you are trying to optimize--must query it through interaction.
+- Interacting with a stateful world: input xt depend on your previous actions.
 
 
 
