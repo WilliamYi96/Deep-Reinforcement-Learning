@@ -11,7 +11,7 @@
 在当下大量的机器学习问题涉及到做出一系列行为的背景之下，强化学习就是一种解决此类问题的手段。
 强化学习场景通常是媒介(agent)与环境(environment)之间的交互，媒介对于环境做出行为(action), 然后环境对这种行为进行回馈，强化学习就是使这种回报最大化。
 
-![](./img/Deep Reinforcement Learning Concept.png)
+![](./img/Deep_Reinforcement_Learning_Concept.png)
 
 强化学习是一种部分可观察马尔科夫决策处理(POMDP-- partially observable Markov decision process)。其部分性体现在不知道要进行最优化以获得回报最大化的函数是什么，因此无法直接进行参数训练，但是却可以根据reward进行决策的调整来实现回报最大化。
 
@@ -42,11 +42,11 @@
 
 ## 强化学习和其他机器学习问题的联系
 
-![](./img/Supervised Learning in DRL.png)
+![](./img/Supervised_Learning_in_DRL.png)
 
-![](./img/Contextual bandits in DRL.png)
+![](./img/Contextual_bandits_in_DRL.png)
 
-![](./img/Reinforcement learning in DRL.png)
+![](./img/Reinforcement_learning_in_DRL.png)
 
 ## 强化学习和监督学习的差异
 强化学习具有以下特点：
@@ -55,4 +55,4 @@
 2. 交互式需要考虑之前情况，输入的xt依赖于你之前的动作。
 
 ## 近期深度强化学习的成功范例
-ATARI和AlphaGo都是其成功的范例，详情参见http://rll.berkeley.edu/deeprlcourse/docs/lec0.pdf
+ATARI和AlphaGo都是其成功的范例，详情参见http://rll.berkeley.edu/deeprlcourse/docs/lec0.pdf 
