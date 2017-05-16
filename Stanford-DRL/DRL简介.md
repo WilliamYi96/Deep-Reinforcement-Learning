@@ -55,4 +55,4 @@
 2. 交互式需要考虑之前情况，输入的xt依赖于你之前的动作。
 
 ## 近期深度强化学习的成功范例
-ATARI和AlphaGo都是其成功的范例，详情参见http://rll.berkeley.edu/deeprlcourse/docs/lec0.pdf
+ATARI和AlphaGo都是其成功的范例，详情参见http://rll.berkeley.edu/deeprlcourse/docs/lec0.pdf 
