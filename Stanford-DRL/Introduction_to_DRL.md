@@ -18,7 +18,7 @@ Deep means it can process more complex sensory input while reinforcement learnin
 - Learn simple skills with raw sensory input, given enough experience.  >> Transfer Learning
 - Learn from imitating enough human-provides expert behaviors.    >> Imitation Learning
 
-# What has proven challenging so far?
+# What has been proven challenging so far?
 - Humans can learnig incredibly quickly while DRL methods are usually slow.
 - Humans can reuse past knowledge whiel Transfer learning in DRL is an open problem.
 - Not clear what the reward function should be

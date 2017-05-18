@@ -8,8 +8,7 @@ Here is some basic information about UCL(University of College London) reinforce
 |Instructor|David Silver|
 |Course Material|http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html|
 |Chapter Name|Introduction to Reinforcement Learning|
-|Reference Materials|![Intro_RL](./materials/intro_RL.pdf)|
-
+|Reference Materials|![intro_RL](./materials/intro_RL.pdf)|
 
 
 
